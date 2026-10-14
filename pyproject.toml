@@ -4,9 +4,10 @@ build-backend = "hatchling.build"
 
 [project]
 name = "django-ship"
-version = "0.3.0"
-description = "An app to use Post Office services in e-commerce built with Django."
+version = "0.4.0"
+description = "Multi-rail commerce, payments (Stripe, PayPal v2, Web3 EVM, SIWE), and postal shipping for Django."
 readme = "README.rst"
+
 license = { text = "LGPLv3 License" }
 authors = [{ name = "William Oliveira de Lagos", email = "william.lagos@icloud.com" }]
 requires-python = ">=3.8"

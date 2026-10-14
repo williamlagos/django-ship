@@ -18,6 +18,7 @@
 # along with Shipping. If not, see <http://www.gnu.org/licenses/>.
 #
 
+__version__ = "0.4.0"
 default_app_config = "shipping.apps.DefaultConfig"
 
 from urllib.request import Request, urlopen
